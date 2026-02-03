@@ -1,4 +1,4 @@
-package Dsa;
+package LinkedList;
 
 /*
  * Student Node
