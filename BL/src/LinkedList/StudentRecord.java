@@ -1,9 +1,6 @@
 package LinkedList;
 
-/*
- * Student Node
- * Stores student details and link to next node.
- */
+
 class Student {
     int roll;
     String name;
